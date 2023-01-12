@@ -2,6 +2,8 @@ import sys
 from random import sample
 from modules import *
 
+print('Здравствуйте, Я - Тестировщик знаний!')
+
 
 def main():
     question_bank = []
