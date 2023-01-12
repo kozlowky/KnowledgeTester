@@ -13,5 +13,7 @@
  <li><u>[Optoion]</u> module for interaction between kernel and interface.</li>
 </ol>
 
-<h3>In this project</h3>
+<h3>In this project &#9994;</h3>
 <p>Of course this project for first looks easy, but I`m a few beginners in Python programming so not judge me harshly.<p>   
+<p>This project is just a test of knowledge from any field.<br> 
+For edit questions list your need to correct file <u>[questions.py]</u> who is in <u>[module]</u> directory and represents a dictionary python.</p>
