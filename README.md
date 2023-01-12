@@ -1,6 +1,6 @@
 <h1 align="center">Knowledge Test &#127919;</h1> 
 
-<h3>About</h3>
+<h3>About &#129488;</h3>
 <p> My first task on time basical python programming cource is Knowledge Test App.</p>
 
 The task had the following requirements:
@@ -13,4 +13,5 @@ The task had the following requirements:
  <li><u>[Optoion]</u> module for interaction between kernel and interface.</li>
 </ol>
 
+<h3>In this project</h3>
 
