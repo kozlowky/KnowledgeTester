@@ -1,10 +1,16 @@
-[b]Knowlege Tester[/b]
+<h1 align="center">Knowledge Test &#127919;</h1> 
 
-While learning the basics of python programming, my first app is the knowlege test.
+<h3>About</h3>
+<p> My first task on time basical python programming cource is Knowledge Test App.</p>
 
 The task had the following requirements:
+<ol>
+ <li>Minimum 10 questions from any field of knowledge.</li>
+ <li>Possibility to choose option an answer and score.</li>
+ <li>GUI or console.</li>
+ <li>Separate module or modules, engaged processing user input user interaction.</li>
+ <li>Separate core module who stores test classes and computing logic.</li>
+ <li><u>[Optoion]</u> module for interaction between kernel and interface.</li>
+</ol>
 
-Возможность выполнения тестов проверки знаний с вариантами ответов и оценкой в баллах. Минимум 10 тестов из любых областей знаний.
-Графический и/или консольный интерфейс - отдельный модуль/модули, занимается обработкой пользовательского ввода/ взаимодействием с пользователем
-Модуль ядро (Core) - отдельный, хранит классы тестов и логику вычислений
-[Опционально] модуль для взаимодействия ядра и интерфейса
+
