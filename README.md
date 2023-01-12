@@ -3,7 +3,7 @@
 <h3>About &#129488;</h3>
 <p> My first task on time basical python programming cource is Knowledge Test App.</p>
 
-The task had the following requirements:
+<p>The task had the following requirements:</p>
 <ol>
  <li>Minimum 10 questions from any field of knowledge.</li>
  <li>Possibility to choose option an answer and score.</li>
@@ -14,4 +14,4 @@ The task had the following requirements:
 </ol>
 
 <h3>In this project</h3>
-
+<p>Of course this project for first looks easy, but I`m a few beginners in Python programming so not judge me harshly.<p>   
