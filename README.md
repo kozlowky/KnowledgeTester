@@ -20,7 +20,7 @@ So this easy task from my studying Python course helped me very well.
 
 <h3>In this project:</h3>
 
-Of course this project for first looks easy, but I`m a few beginners in Python &#128013; programming so not judge me harshly.   
+Of course this project for first looks easy, but I`m a few beginners in Python programming so not judge me harshly.   
 This project is just a test of knowledge from any field.<br> 
 For edit questions list your need to correct file ***[questions.py]*** who is in ***[module]*** directory and represents a dictionary Python.
 On default value random questions is 10
