@@ -27,3 +27,7 @@ class KnownTester:
     def check_answer(self, user_answer, answer):
         if user_answer.lower() == answer.lower():
             self.score += 1
+            print('Верно!')
+        else:
+            print('Не верно!')
+        print(f'Правильных ответов: {self.score}\n')
