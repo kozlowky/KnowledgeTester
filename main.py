@@ -2,7 +2,7 @@ import sys
 from random import sample
 from modules import *
 
-print('Здравствуйте, Я - Тестировщик знаний!')
+print('Здравствуйте, Я - Тестировщик знаний!\n')
 
 
 def main():
