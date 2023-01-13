@@ -1,4 +1,4 @@
-<h1 align="center">KnowledgeTester &#127919;</h1> 
+<h1 align="center">KnowledgeTester App &#127919;</h1> 
 
 <h3>About &#129488;:</h3>
 
