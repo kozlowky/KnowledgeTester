@@ -1,12 +1,12 @@
-<h1 align="center">KnowledgeTester App &#127919;</h1> 
+<h1>KnowledgeTester App</h1> 
 
-<h3>About &#129488;:</h3>
+<h3>About:</h3>
 
-My first task on time basic Python &#128013; programming course is  a console KnowledgeTest App.<br>
+My first task on time basic Python programming course is  a console KnowledgeTest App.<br>
 I chose this project because in another training I had to memorize 72 questions and their answers.<br>
 Since the questions were given to me on a paper brochure, and the answers to them had to be searched in Google or in some books (paper or pdf), the school created a web test for students, but access to this service is paid.<br>
-Some probably understood what courses I wrote about above &#129327;.
-So this easy task from my studying Python &#128013; course helped me very well.
+Some probably understood what courses I wrote about above.
+So this easy task from my studying Python course helped me very well.
 
 <h3>The task had the following requirements:</h3>
 
@@ -18,15 +18,15 @@ So this easy task from my studying Python &#128013; course helped me very well.
 6. [Option] module for interaction between kernel and interface.
 
 
-<h3>In this project &#128161;:</h3>
+<h3>In this project:</h3>
 
 Of course this project for first looks easy, but I`m a few beginners in Python &#128013; programming so not judge me harshly.   
 This project is just a test of knowledge from any field.<br> 
-For edit questions list your need to correct file ***[questions.py]*** who is in ***[module]*** directory and represents a dictionary Python &#128013;.
+For edit questions list your need to correct file ***[questions.py]*** who is in ***[module]*** directory and represents a dictionary Python.
 On default value random questions is 10
 If you need increase this number edit string ***№10*** in file ***[main.py]***. 
 You need Just change digits into [question_random = sample(question_db, ***10***)] string.
 
 <h3>In Future:</h3>
 I understand that this application is quite elementary and does not use the functionality that is currently possible to use.
-However, this is a great start to learning Python &#128013;.
+However, this is a great start to learning Python.
