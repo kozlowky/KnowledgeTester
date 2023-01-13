@@ -1,7 +1,10 @@
-<h1 align="center">Knowledge Test &#127919;</h1> 
+<h1 align="center">KnowledgeTest &#127919;</h1> 
 
 <h3>About &#129488;:</h3>
-My first task on time basical Python programming cource is Knowledge Test App.
+My first task on time basical Python &#128013; programming cource is KnowledgeTest App.
+I chose this project because in another training I had to memorize 72 questions and their answers.
+Since the questions were given to me on a paper brochure, and the answers to them had to be searched in Google or in some books (paper or pdf), the school created a web test for students, but access to this service is paid.
+Some probably understood what courses I wrote about above &#129327;.
 
 The task had the following requirements:
 
@@ -15,7 +18,7 @@ The task had the following requirements:
 
 <h3>In this project &#128161;:</h3>
 
-Of course this project for first looks easy, but I`m a few beginners in Python programming so not judge me harshly.   
+Of course this project for first looks easy, but I`m a few beginners in Python &#128013; programming so not judge me harshly.   
 This project is just a test of knowledge from any field.<br> 
-For edit questions list your need to correct file ***[questions.py]*** who is in ***[module]*** directory and represents a dictionary Python.
+For edit questions list your need to correct file ***[questions.py]*** who is in ***[module]*** directory and represents a dictionary Python &#128013;.
 
