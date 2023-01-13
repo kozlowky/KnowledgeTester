@@ -1,9 +1,9 @@
 <h1 align="center">KnowledgeTest &#127919;</h1> 
 
 <h3>About &#129488;:</h3>
-My first task on time basical Python &#128013; programming cource is KnowledgeTest App.
-I chose this project because in another training I had to memorize 72 questions and their answers.
-Since the questions were given to me on a paper brochure, and the answers to them had to be searched in Google or in some books (paper or pdf), the school created a web test for students, but access to this service is paid.
+My first task on time basical Python &#128013; programming cource is KnowledgeTest App.<br>
+I chose this project because in another training I had to memorize 72 questions and their answers.<br>
+Since the questions were given to me on a paper brochure, and the answers to them had to be searched in Google or in some books (paper or pdf), the school created a web test for students, but access to this service is paid.<br>
 Some probably understood what courses I wrote about above &#129327;.
 
 The task had the following requirements:
