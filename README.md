@@ -34,5 +34,6 @@ However, this is a great start to learning Python.
 <h3>Update</h3>
 15/01/2023
 ver. 1.0.1:
-1. [class Question] from [questions.py] move to new file - [questions_model.py]
-2. file [questions.py] renamed to [data.py]
+
+- [class Question] from [questions.py] move to new file - [questions_model.py]
+- file [questions.py] renamed to [data.py]
