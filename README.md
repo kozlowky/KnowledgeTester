@@ -30,3 +30,8 @@ You need Just change digits into [question_random = sample(question_db, ***10***
 <h3>In Future:</h3>
 I understand that this application is quite elementary and does not use the functionality that is currently possible to use.
 However, this is a great start to learning Python.
+
+<h3>Update</h3>
+15/01/2023
+- [class Question] from [questions.py] move to new file - [questions_model.py]
+- file [questions.py] renamed to [data.py]

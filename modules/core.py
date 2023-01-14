@@ -1,8 +1,3 @@
-class Question:
-    def __init__(self, question, answer):
-        self.question = question
-        self.answer = answer
-
 
 class KnownTester:
     def __init__(self, q_list):
