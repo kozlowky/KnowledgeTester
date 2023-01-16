@@ -20,7 +20,7 @@ def main():
         known_tester.next_question()
 
     print(f'Правильных ответов: {known_tester.score} из {known_tester.question_number}')
-    repeat_test = input('Чтобы повторить тест введите "y", или нажмите на любую клавишу: ')
+    repeat_test = input('Чтобы повторить тест введите "y", или нажмите любую клавишу для выхода: ')
     if repeat_test == 'y':
         return main()
     else:
@@ -28,5 +28,5 @@ def main():
 
 
 if __name__ == '__main__':
-    exit(main())
+    main()
     print(sys.stdin.readline())
