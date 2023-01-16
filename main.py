@@ -24,7 +24,7 @@ def main():
     if repeat_test == 'y':
         return main()
     else:
-        print('Тест окончен. Нажмите любую клавишу!')
+        print('Тест окончен.')
 
 
 if __name__ == '__main__':
